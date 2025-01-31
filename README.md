@@ -3,6 +3,23 @@
 ## 📌 Project Description  
 This project presents an interactive **Product Analysis Overview Dashboard** built using **MySQL** and **Power BI**. The dashboard provides insights into product performance, revenue trends, and key business metrics by leveraging data visualization and analytics.
 
+![Dashboard Preview](reports/dashboard-preview.png)  
+
+## 📌 Project Description  
+This project presents an interactive **Product Analysis Overview Dashboard** built using **MySQL, Power BI, and Excel**.  
+The dashboard provides insights into **product performance, revenue trends, and key business metrics** using data visualization and analytics.  
+
+---
+
+## 🚀 Technologies Used  
+| Technology | Purpose |
+|------------|---------|
+| **Excel**  | Initial data exploration & preprocessing |
+| **MySQL**  | Database for storing and querying product sales data |
+| **Power BI** | Data visualization & dashboard development |
+
+---
+
 ## 🏆 Problem Statement  
 The goal of this project is to analyze product sales performance by focusing on key metrics such as **total units sold, total revenue, and revenue distribution**. The dashboard helps businesses track sales trends, identify top-performing regions, and analyze discount impacts.
 
@@ -38,5 +55,59 @@ The dashboard contains the following charts and reports:
 - Formatting Visuals  
 - Slicers  
 - Buttons  
-- Tooltips   
+- Tooltips
+
+# 📊 Product Analysis Overview Dashboard  
+
+## 📌 Project Description  
+This project presents an interactive **Product Analysis Overview Dashboard** built using **MySQL** and **Power BI**.  
+The dashboard provides insights into **product performance, revenue trends, and key business metrics** using data visualization and analytics.  
+
+---
+
+## 🔄 Workflow & Steps  
+
+### **1️⃣ Data Preparation**  
+📌 **Connecting to MySQL Database:**  
+- Import product sales data from **MySQL database** into **Power BI**.  
+
+📌 **Data Cleaning:**  
+- Remove duplicate records and inconsistencies.  
+- Handle missing values by applying appropriate transformations.  
+- Standardize data formats (e.g., date formats, currency).  
+
+📌 **Data Modeling:**  
+- Establish relationships between tables (**fact & dimension tables**).  
+- Define **primary keys** and **foreign keys** for efficient querying.  
+- Create **date tables** for time-based analysis.  
+
+📌 **Data Processing:**  
+- Use **Power Query** to transform raw data into an **optimized format**.  
+- Perform **data type conversions** and **column renaming** for clarity.  
+
+---
+
+### **2️⃣ Data Analysis & KPI Calculation**  
+📌 **Creating Key Performance Indicators (KPIs):**  
+- Calculate **Total Units Sold** and **Total Revenue** using **DAX**.  
+- Develop **Profit and Discount Impact Analysis**.  
+
+📌 **Implementing Measures & Functions:**  
+- Use **DAX functions** for aggregations (SUM, AVERAGE, COUNT).  
+- Apply **date functions** to enable dynamic filtering.  
+- Use **text and filter functions** for dynamic analysis.  
+
+---
+
+### **3️⃣ Dashboard Development & Visualization**  
+📌 **Creating Visuals:**  
+- **Stacked Bar Chart:** Revenue by Country.  
+- **Stacked Column Chart:** Revenue by Date and Year.  
+- **Donut Chart:** Revenue Breakdown by Discount Band.  
+- **Table View:** Revenue and Profit by Country and Year.  
+
+---
+
+
+
 
