@@ -38,7 +38,5 @@ The dashboard contains the following charts and reports:
 - Formatting Visuals  
 - Slicers  
 - Buttons  
-- Tooltips  
-
-## 📂 Project Structure  
+- Tooltips   
 
