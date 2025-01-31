@@ -3,23 +3,6 @@
 ## 📌 Project Description  
 This project presents an interactive **Product Analysis Overview Dashboard** built using **MySQL** and **Power BI**. The dashboard provides insights into product performance, revenue trends, and key business metrics by leveraging data visualization and analytics.
 
-![Dashboard Preview](reports/dashboard-preview.png)  
-
-## 📌 Project Description  
-This project presents an interactive **Product Analysis Overview Dashboard** built using **MySQL, Power BI, and Excel**.  
-The dashboard provides insights into **product performance, revenue trends, and key business metrics** using data visualization and analytics.  
-
----
-
-## 🚀 Technologies Used  
-| Technology | Purpose |
-|------------|---------|
-| **Excel**  | Initial data exploration & preprocessing |
-| **MySQL**  | Database for storing and querying product sales data |
-| **Power BI** | Data visualization & dashboard development |
-
----
-
 ## 🏆 Problem Statement  
 The goal of this project is to analyze product sales performance by focusing on key metrics such as **total units sold, total revenue, and revenue distribution**. The dashboard helps businesses track sales trends, identify top-performing regions, and analyze discount impacts.
 
