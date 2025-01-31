@@ -27,7 +27,7 @@ The dashboard contains the following charts and reports:
 - **Revenue Breakdown by Discount Band (Donut Chart):** Analyzes the revenue distribution across different discount categories.  
 - **Detailed Table View:** Displays revenue and profit details by country and year.
 
-- Dashboard interaction<a href="https://github.com/ShivaPulicheru1999/Sales_Data_Analysis-MySQL/Sales_Dashboard.pdf"> View Dashboard</a>
+- Dashboard interaction<a href="https://github.com/ShivaPulicheru1999/Sales_Data_Analysis/blob/main/Sales_Data_Analysis-MySQL/Sales_Dashboard.pdf"> View Dashboard</a>
 
 ## 🔧 Functionalities & Tools Used  
 ### 📌 Power BI Features:  
